@@ -38,3 +38,15 @@
     transform: rotate(360deg);
   }
 }
+
+.map-wrapper {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+
+.map-container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
